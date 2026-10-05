@@ -24,7 +24,7 @@ int main() {
 	cin >> ratePercent;
 	cin.ignore();
 
-	cout << "Enter the number of times interest in compunded in a year" << endl;
+	cout << "Enter the number of times interest is compunded in a year" << endl;
 	cin >> timesCompounded;
 
 	rateDecimal = ratePercent / 100.0;
